@@ -45,7 +45,7 @@ In my previous roles, I saw support teams react *after* customers left. This age
 
 - **Memory is everything in AI.** A generic LLM sees isolated facts. With Cognee's graph memory, the same LLM can reason across time and relationships.
 - **Beginners can build AI agents.** I started not knowing Python well, but AI-assisted development (using Claude) let me focus on the problem, not syntax.
-- **Context is the hardest part.** The real work wasn't the code — it was figuring out what signals matter for churn risk. That domain knowledge (from Quidax) was invaluable.
+- **Context is the hardest part.** The real work wasn't the code — it was figuring out what signals matter for churn risk. That domain knowledge was invaluable.
 
 ## Next Steps
 
